@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.**create customer performance report - https://github.com/prachikarsrung/excel-course/blob/main/Customer%20Performance%20Report.pdf
+    **1.** create customer performance report - https://github.com/prachikarsrung/excel-course/blob/main/Customer%20Performance%20Report.pdf
 
     **2.**  comprehensive comparison between _[market performance and sales targets] - https://github.com/prachikarsrung/excel-course/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
 
